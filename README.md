@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 🚀 Featured Projects
+## Projects
 
 <table align="center" width="100%" style="table-layout: fixed;">
   <tr>
@@ -119,10 +119,11 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Trophy -->
+<!-- Trophy (Temporarily commented out because the github-profile-trophy server is currently down)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mirajuddin1357&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
 </div>
+-->
 
 <br />
 
