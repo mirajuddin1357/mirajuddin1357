@@ -13,9 +13,9 @@
   <a href="https://linkedin.com/in/mirajuddin1357" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mirajuddin1357" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://miraj-ud-din-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=chrome&logoColor=white" />
+</a>
   <a href="https://www.kaggle.com/mirajuddin1357" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
@@ -119,12 +119,9 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Trophy (Temporarily commented out because the github-profile-trophy server is currently down)
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirajuddin1357&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirajuddin1357&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </div>
--->
-
 <br />
 
 <div align="center">
